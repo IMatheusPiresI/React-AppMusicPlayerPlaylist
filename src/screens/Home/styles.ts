@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import background from '../../assets/images/thereal.jpg'
+import background from '../../../public/images/thereal.jpg'
 
 export const Container = styled.main`
     position: relative;

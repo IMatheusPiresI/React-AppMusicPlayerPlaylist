@@ -1,4 +1,4 @@
-import ImageMusic from "../assets/images/thereal.jpg";
+import ImageMusic from "../../public/images/thereal.jpg";
 import All_Eyes_on_You from '../assets/musics/All_Eyes_on_You.mp3'
 import Mambo from '../assets/musics/Mambo.mp3'
 import TRO_faixa from '../assets/musics/TRO_faixa.mp3'

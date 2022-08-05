@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import Audiobar from '../../assets/images/audiobar.gif'
+import Audiobar from '../../../public/images/audiobar.gif'
 
 type IsPlaying = {
     isPlaying: boolean;

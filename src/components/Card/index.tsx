@@ -1,5 +1,5 @@
 import * as S from "./styles";
-import music from "../../assets/images/thereal.jpg";
+import music from "../../../public/images/thereal.jpg";
 import { useNavigate } from "react-router-dom";
 
 type CardProps = {

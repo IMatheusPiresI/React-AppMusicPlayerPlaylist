@@ -1,5 +1,5 @@
 import * as S from "./styles";
-import LogoTheReal from "../../assets/images/logo.jpg";
+import LogoTheReal from "../../../public/images/logo.jpg";
 import { useNavigate } from "react-router-dom";
 
 const Logo = () => {
