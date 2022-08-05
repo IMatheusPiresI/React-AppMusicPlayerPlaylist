@@ -13,7 +13,7 @@ const Playlist = () => {
   return (
     <>
       <S.Container>
-        <Title>PLAYLISTS</Title>
+        <Title translate="no">PLAYLISTS</Title>
         <S.ContainerContent>
           <BoxPlaylists setCurrentPlaylist={setCurrentPlaylist} />
           <PlaylistDatails currentPlaylist={currentPlaylist} />

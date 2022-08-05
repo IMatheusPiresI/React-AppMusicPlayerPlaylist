@@ -39,19 +39,19 @@ export const Autor = styled.div`
     text-align: left;
 
     & p:first-child {
-        font-size: 18px;
-        color: #fff;
-    }
+            font-size: 18px;
+            color: #fff;
+        }
 
-    & p:last-child {
-        font-size: 14px;
-        color: #fff7;
-    }
+        & p:last-child {
+            font-size: 14px;
+            color: #fff7;
+        }
 
-    @media (max-width: 765px) {
-        & p:first-child {
-        font-size: 14px;
-    }
+        @media (max-width: 765px) {
+            & p:first-child {
+            font-size: 14px;
+        }
     }
 `;
 

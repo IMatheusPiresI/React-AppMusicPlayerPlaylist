@@ -3,8 +3,6 @@ import { IoMdPlay } from "react-icons/io";
 import { IoMdPause } from "react-icons/io";
 import { useEffect, useState } from "react";
 import { useMusicContext } from "../../contexts/MusicContext";
-import { PlayList } from "../../mocks/playlists";
-
 type MusicItemProps = {
   id: number;
   name: string;

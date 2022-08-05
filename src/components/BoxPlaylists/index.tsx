@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import { useEffect } from "react";
 import * as S from "./styles";
 import { PlayList, playlists } from "../../mocks/playlists";
 import { useMusicContext } from "../../contexts/MusicContext";

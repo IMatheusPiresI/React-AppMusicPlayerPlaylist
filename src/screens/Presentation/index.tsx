@@ -4,7 +4,7 @@ import * as S from "./styles";
 const Presentation = () => {
   return (
     <S.Presentation>
-      <S.Title>THE REAL ONES</S.Title>
+      <S.Title translate="no">THE REAL ONES</S.Title>
 
       <S.ContainerCard>
         <Card

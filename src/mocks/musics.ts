@@ -83,90 +83,90 @@ export const musics: Musics[] = [
         name: 'Flow Yaya Touré',
         audio: Flow_Yaya_Toure,
         img: ImageMusic,
-        time: "03:07"
+        time: "02:13"
     },
     {
         id: 9,
         name: 'Buffalo Drill',
         audio: Buffalo_Drill,
         img: ImageMusic,
-        time: "02:47"
+        time: "02:06"
     },
     {
         id: 10,
         name: 'Hit Machine',
         audio: Hit_Machine,
         img: ImageMusic,
-        time: "03:14"
+        time: "02:25"
     },
     {
         id: 11,
         name: '100 placas',
         audio: cem_placas,
         img: ImageMusic,
-        time: "03:07"
+        time: "03:39"
     },
     {
         id: 12,
         name: '8º Sinfonia do F*da-se',
         audio: Sinfonia_do_Fda_se,
         img: ImageMusic,
-        time: "02:47"
+        time: "03:28"
     },
     {
         id: 13,
         name: 'Frevo na Laje',
         audio: Frevo_na_Laje,
         img: ImageMusic,
-        time: "03:14"
+        time: "03:00"
     },
     {
         id: 14,
         name: 'Nova Atlanta',
         audio: Nova_Atlanta,
         img: ImageMusic,
-        time: "03:07"
+        time: "03:04"
     },
     {
         id: 15,
         name: 'Invictus',
         audio: Invictus,
         img: ImageMusic,
-        time: "02:47"
+        time: "02:55"
     },
     {
         id: 16,
         name: 'Predestinado',
         audio: Predestinado,
         img: ImageMusic,
-        time: "03:14"
+        time: "02:24"
     },
     {
         id: 17,
         name: 'Bem Vindo Show de Truman',
         audio: Bem_Vindo_Show_de_Truman,
         img: ImageMusic,
-        time: "03:14"
+        time: "02:37"
     },
     {
         id: 18,
         name: 'Solitude',
         audio: Solitude,
         img: ImageMusic,
-        time: "03:14"
+        time: "03:35"
     },
     {
         id: 19,
         name: 'Balaclava',
         audio: Balaclava,
         img: ImageMusic,
-        time: "03:14"
+        time: "02:05"
     },
     {
         id: 20,
         name: 'Premiere',
         audio: Premiere,
         img: ImageMusic,
-        time: "03:14"
+        time: "02:15"
     },
 ]

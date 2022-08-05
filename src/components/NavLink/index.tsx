@@ -1,5 +1,5 @@
-import React, { ReactNode, useEffect, useState } from "react";
-import { Link, useLocation, useParams } from "react-router-dom";
+import { ReactNode, useEffect, useState } from "react";
+import { Link, useLocation } from "react-router-dom";
 import * as S from "./styles";
 
 type NavLinkProps = {
@@ -21,7 +21,9 @@ const NavLink = ({ href, children, ...rest }: NavLinkProps) => {
 
   return (
     <S.LinkNav {...rest} active={active}>
-      <Link to={href}>{children}</Link>
+      <Link to={href} translate="no">
+        {children}
+      </Link>
     </S.LinkNav>
   );
 };

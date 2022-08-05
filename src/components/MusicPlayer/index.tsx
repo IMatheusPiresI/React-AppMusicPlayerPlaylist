@@ -1,13 +1,9 @@
 import * as S from "./styles";
-import { IoMdPlay } from "react-icons/io";
-import { IoMdPause } from "react-icons/io";
-import { MdVolumeUp } from "react-icons/md";
-import { MdVolumeOff } from "react-icons/md";
-import { useEffect, useState } from "react";
+
+import { useEffect } from "react";
 import { useMusicContext } from "../../contexts/MusicContext";
 
 import { musics } from "../../mocks/musics";
-import { currentPercentageBackground } from "../../helpers/currentPercentageBackground";
 import PlayerCurrentDuration from "../PlayerCurrentDuration";
 import PlayerPlayPause from "../PlayerPlayPlause";
 import PlayerVolume from "../PlayerVolume";

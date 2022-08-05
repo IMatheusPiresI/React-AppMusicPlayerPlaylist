@@ -15,7 +15,7 @@ export const BoxMusics = styled.div`
     max-height: 600px;
     overflow-x: auto;
     gap: 8px;
-    margin-top: 2em;
+    margin-top: .5em;
     flex: 1;
 
     /* width */
@@ -38,3 +38,26 @@ export const BoxMusics = styled.div`
     }
 `;
 
+export const FilterMusic = styled.div`
+    width: 100%;
+    height: 30px;
+    position: relative;
+    display: flex;
+    align-items: center;
+
+    & svg {
+        position: absolute;
+        left: 15px;
+    }
+`;
+
+export const InputSearch = styled.input`
+    width: 100%;
+    height: 100%;    
+    background-color: rgba(0, 0, 0, .3);
+    border: 1px solid rgba(255, 255, 255, .4);
+    border-radius: 6px;
+    color: #fff;
+    padding: 0em 2em;
+    font-size: 20px;
+`;

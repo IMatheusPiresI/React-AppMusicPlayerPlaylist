@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import { useState } from "react";
 import { useMusicContext } from "../../contexts/MusicContext";
 import { currentPercentageBackground } from "../../helpers/currentPercentageBackground";
 import { formatDurationMusic } from "../../helpers/formatDurationMusic";

@@ -1,4 +1,3 @@
-import React from "react";
 import { PlayList } from "../../mocks/playlists";
 import MusicItem from "../MusicItem";
 import * as S from "./styles";

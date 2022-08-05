@@ -1,4 +1,3 @@
-import React from "react";
 import { IoMdPause, IoMdPlay } from "react-icons/io";
 import { useMusicContext } from "../../contexts/MusicContext";
 

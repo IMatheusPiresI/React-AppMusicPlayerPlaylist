@@ -8,7 +8,7 @@ const Logo = () => {
   return (
     <S.Container onClick={() => navigate("/")}>
       <S.Logo src={LogoTheReal} alt="Logo The Real Ones" />
-      <S.TextLogo>THE REAL ONES</S.TextLogo>
+      <S.TextLogo translate="no">THE REAL ONES</S.TextLogo>
     </S.Container>
   );
 };

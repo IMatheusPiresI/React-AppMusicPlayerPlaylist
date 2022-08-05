@@ -1,11 +1,4 @@
-import {
-  createContext,
-  ReactNode,
-  useContext,
-  useEffect,
-  useState,
-} from "react";
-import { formatDurationMusic } from "../helpers/formatDurationMusic";
+import { createContext, ReactNode, useContext, useState } from "react";
 import { musics } from "../mocks/musics";
 import { PlayList, playlists } from "../mocks/playlists";
 
