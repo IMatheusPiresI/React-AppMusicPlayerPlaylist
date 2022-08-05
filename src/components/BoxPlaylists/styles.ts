@@ -31,7 +31,6 @@ export const BoxPlayList = styled.div`
     /* Handle */
     ::-webkit-scrollbar-thumb {
         background: rgba(255, 255, 255, .7);
-        box-shadow: 0px 0px 5px 1px rgba(255,255,255, 1);
         border-radius: 10px;
     }
 
